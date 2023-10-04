@@ -15,6 +15,7 @@ EditText user;
 EditText password;
 Button btn;
 ImageView cont;
+    int x;
     @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
